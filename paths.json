@@ -3,7 +3,11 @@
     "/content/divesh-eds-site/:/",
     "/content/divesh-eds-site/components:/testpage",
     "/content/divesh-eds-site/configuration:/.helix/config.json",
-    "/content/divesh-eds-site/metadata:/metadata.json"
+    "/content/divesh-eds-site/metadata:/metadata.json",
+    "/content/divesh-eds-site/bar-chart:/bar-chart.json",
+    "/content/divesh-eds-site/line-chart:/line-chart.json",
+    "/content/divesh-eds-site/bar-chart-config:/bar-chart-config.json",
+    "/content/divesh-eds-site/line-chart-config:/line-chart-config.json"
   ],
   "includes": [
     "/content/divesh-eds-site/"
