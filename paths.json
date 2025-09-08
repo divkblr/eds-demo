@@ -1,6 +1,7 @@
 {
   "mappings": [
     "/content/divesh-eds-site/:/",
+    "/content/divesh-eds-site/components:/abcd",
     "/content/divesh-eds-site/configuration:/.helix/config.json",
     "/content/divesh-eds-site/metadata:/metadata.json"
   ],
