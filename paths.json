@@ -1,7 +1,6 @@
 {
   "mappings": [
     "/content/divesh-eds-site/:/",
-    "/content/divesh-eds-site/components:/testpage",
     "/content/divesh-eds-site/configuration:/.helix/config.json",
     "/content/divesh-eds-site/metadata:/metadata.json",
     "/content/divesh-eds-site/bar-chart:/bar-chart.json",
