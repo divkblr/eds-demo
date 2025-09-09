@@ -1,6 +1,6 @@
 {
-  "definitions": {
-    "quote": {
+  "definitions": [
+    {
       "title": "Quote",
       "id": "quote",
       "plugins": {
@@ -8,13 +8,25 @@
           "page": {
             "resourceType": "core/franklin/components/block/v1/block",
             "template": {
-              "name": "Quote"
+              "name": "Quote",
+              "model": "quote"
             }
           }
         }
       }
     }
-  },
-  "models": [],
-    "filters": []
+  ],
+  "models": [
+    {
+      "id": "quote",
+      "fields": [
+        {
+          "component": "richtext",
+          "name": "text",
+          "label": "Quote Text"
+        }
+      ]
+    }
+  ],
+  "filters": []
 }

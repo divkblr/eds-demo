@@ -263,5 +263,15 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "quote",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "text",
+        "label": "Quote Text"
+      }
+    ]
   }
 ]
