@@ -6,7 +6,8 @@
     "/content/divesh-eds-site/bar-chart:/bar-chart.json",
     "/content/divesh-eds-site/line-chart:/line-chart.json",
     "/content/divesh-eds-site/bar-chart-config:/bar-chart-config.json",
-    "/content/divesh-eds-site/line-chart-config:/line-chart-config.json"
+    "/content/divesh-eds-site/line-chart-config:/line-chart-config.json",
+    "/content/divesh-eds-site/questionnaire:/questionnaire.json"
   ],
   "includes": [
     "/content/divesh-eds-site/"
